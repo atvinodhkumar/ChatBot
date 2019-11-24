@@ -1,0 +1,7 @@
+Are they of the same model?
+Please state the model name of your {} truck: 
+Can you please state the number of different truck models you own? 
+Please state the model names of your trucks separated by a comma: 
+Please state the remaining {} model names of your trucks separated by a comma: 
+The stated model names are more than 1. Let's go again!
+The stated number of model names doesn't match the different number of your truck models. Let's go again!

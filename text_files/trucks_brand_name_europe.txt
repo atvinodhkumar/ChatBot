@@ -1,0 +1,202 @@
+Acmat
+Aec
+Albion
+Alfa Romeo
+Argyle
+Armstrong-Saurer
+Askam
+Astra
+Atkinson
+Austin
+Automiesse
+Avia Trucks
+Avtomobilnoe Moskovskoe Obshchestvo
+Awd
+Barkas
+Baron
+Barreiros
+Beardmore
+Bedford
+BelAZ
+Belsize Motors
+Berliet
+Berliet-Tramagal
+Berna
+BMC
+Bristol UD Trucks/Isuzu Motors/Mitsubishi Fuso Truck And Bus Corporation/Hino Motors Joint Venture 100%
+British Motor Corporation
+Brossel
+Bucegi
+Büssing
+Borgward
+Bruce-SN
+Carmichael
+Caledon
+Chavdar
+Chenard-Walcker
+Citroën
+Commer
+Crossley
+Csepel
+DAC
+DAF
+Daimler AG
+De Dion-Bouton
+Delahaye
+Dennis UD Trucks/Isuzu Motors/Mitsubishi Fuso Truck And Bus Corporation/Hino Motors Joint Venture 100 %
+Dennis Eagle
+Dennis-Mann Egerton
+Dennison
+Dodge
+Douglas
+Ebro
+Elvo
+Elm Trucking
+Erf
+Fap
+Far
+Fbw
+Fiat
+Foden
+Ford
+Fowler
+Ftf
+Ga
+Gaz
+Garner
+Garrett
+Gilford
+Ginaf
+Gräf & Stift
+Grube
+Gv
+Guy
+Halley
+Hallford
+Hanomag
+Hardy
+Haulamatic
+Henschel
+Hht
+Hispano-Suiza
+Horch
+Hotchkiss
+Hsg
+Ifa
+Iveco
+Jelcz
+Jensen
+Kaelble
+Kalmar
+Kamaz
+Karrier
+Kerr Stuart
+KrAZ
+Kromhout
+Kaz
+Labourier
+Lacre
+Lancia
+Latil
+Leyland
+Leyland DAF
+Loheac
+Lomount
+Lorraine-Dietrich
+Laz
+Liaz
+Madara
+Magirus
+Mahendra Motor European
+Manchester
+Man
+Maudslay
+McCurd
+Minerva
+MAZ
+Mercedes-Benz
+MTZ
+Morris
+Morris Commercial
+Mowag
+Motor Traction
+Multicar
+Multiwheeler
+Mzkt
+Namco
+Neobus
+Nibus
+Nicolas
+Norde
+Öaf
+Officine Meccaniche
+Officine Meccaniche Tortonesi
+Opel
+Otosan
+Pagefield
+Panhard
+Paul Nutzfahrzeuge
+Pegaso
+Peugeot
+Praga
+Preslav
+Proctor
+Quest
+Raba
+Renault
+Robur
+Roman
+Rotinoff
+Rowe-Hillmaster
+Rutland
+Saurer
+Saviem
+Scammell
+Scania
+Sd
+Seddon
+Seddon Atkinson
+Sentinel
+Shefflex
+Sides
+Simca
+Sisu Auto
+Škoda
+Somua
+Star
+Star
+Steyr
+Straker-Squire
+Straussler
+Tadano Faun GmbH
+Tam
+Tata Motor UK
+Tatra
+Terberg
+Temax
+Thornycroft
+Tilling Stevens
+Titan
+Tonar
+Tvm
+Tvw
+Tvs Motar France
+Unic
+Unimog
+Union
+Unipower
+Usg-Pitt
+Ural
+Uro
+Vanaja
+Verheul
+Volkswagen Commercial Vehicles
+Volvo
+Vomag
+Vulcan
+Willeme
+Yarovit
+Yorkshire
+Zastava
+ZiL
+Zwicky

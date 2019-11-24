@@ -1,0 +1,7 @@
+Are the trucks of the same brand?
+Please state the brand name of your truck: 
+Can you please state the number of different truck brands you own? 
+Please state the brand names of your trucks separated by a comma: 
+Please state the remaining {} brand names of your trucks separated by a comma: 
+The stated brand names are more than 1. Let's go again!
+The stated number of brand names doesn't match the different number of your truck brands. Let's go again! 

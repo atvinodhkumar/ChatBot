@@ -1,0 +1,15 @@
+Engine type
+"In a truck, the average engine capacity is between 660 cc to 14100 cc." Are you sure you entered the valid input?
+"In a truck, the average engine power is between 200 HP to 500 HP." Are you sure you entered the valid input?
+Steering type
+"In a truck, the average steering turning radius is between 4 m to 12 m." Are you sure you entered the valid input?
+Battery capacity
+"In a truck, the average speed is between 30 Km/h to 100 Km/h." Are you sure you entered the valid input?
+"In a truck, the average fuel tank capacity is between 20800 litres to 43900 litres." Are you sure you entered the valid input?
+"In a truck, the average number of gears are between 8 to 20." Are you sure you entered the valid input?
+"In a truck, the average number of axles are between 2 to 8." Are you sure you entered the valid input?
+"In a truck, the average number of wheels are between 4 to 18." Are you sure you entered the valid input?
+"In a truck, the average length of the truck is between 11000 mm to 17000 mm." Are you sure you entered the valid input?
+"In a truck, the average width of the truck is between 2400 mm to 2600 mm." Are you sure you entered the valid input?
+"In a truck, the average total weight of the truck is between 2000 Kg to 15500 Kg." Are you sure you entered the valid input?
+License plate number

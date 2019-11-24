@@ -1,0 +1,15 @@
+What is the engine type?
+What is the engine capacity in (cc)?
+What is the engine power in HP?
+What is the steering type?
+What is the steering turning radius in (m)?
+What is the battery capacity? For instance: 6V 120 Ah
+What is the maximum speed in (Km/h)?
+What is the fuel tank capacity in litres?
+How many gears do they have?
+How many axles do they have?
+How many wheels do they have?
+What is the total length of the truck in (mm)?
+What is the total width of the truck in (mm)?
+What is the total weight of the truck in (Kg)?
+What is the license plate number?
